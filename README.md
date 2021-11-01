@@ -1,2 +1,2 @@
 # modern-cryptography
-A collection of modern cryptography algorithms in Python and C/C++
+A collection of modern cryptography algorithms and crypto analysis techiniques.
